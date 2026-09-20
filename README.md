@@ -7,7 +7,7 @@ The goal of the project is to answer business questions related to customer
 spending, revenue trends, product performance, customer segmentation, and 
 repeat purchasing behavior.
 
-The analysis was completed using MySQL.
+The analysis was completed using MySQL Workbench.
 
 ## Dataset
 
@@ -60,15 +60,10 @@ The project demonstrates the use of:
 - Beauty & Health generated the highest product-category revenue in the analyzed data.
 - The top product category contributed 10.79% of total product-category revenue, indicating that revenue was distributed across multiple categories.
 
-## Tools Used
-
-- MySQL
+## Tool Used
 - MySQL Workbench
-- SQL
-- GitHub
 
 ## Project Files
 
 The repository contains eight SQL files corresponding to the eight business questions in the capstone project.
 
-Each SQL file contains the query used to perform the analysis.
